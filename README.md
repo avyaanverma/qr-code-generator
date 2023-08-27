@@ -1,8 +1,12 @@
 # QR-CODE-GENERATOR
 ![weather page](./images/wea2.png)
+
+
 # JavaScript QR Code Generator Examples
 
 This repository contains two JavaScript code examples for generating QR codes. One example is designed to work in a web browser environment, while the other is intended to run in a Node.js environment.
+# Link To The Webpage
+![click on the link](https://avyaanverma.github.io/qr-code-generator/)
 
 ## Browser QR Code Generator (`browser.js`)
 
