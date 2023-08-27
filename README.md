@@ -1,5 +1,5 @@
 # QR-CODE-GENERATOR
-![weather page](./images/wea2.png)
+[weather page](./images/wea2.png)
 
 
 # JavaScript QR Code Generator Examples
